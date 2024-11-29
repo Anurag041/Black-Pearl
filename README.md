@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I have 2 years exprience as **Fullstack** and 4 years exprience as **Frontend**. My last company was **Freecharge(Axis Bank)**.
+- 🔭 I have 2.5 years of exprience as **Java Fullstack** and 1.5 years exprience as **Frontend(React)**. My last company was **Freecharge(Axis Bank)**.
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
-- 💬 Ask me about **Javascript, React, Java, Spring, Springboot, AWS, Git**
+- 💬 Ask me about **Javascript, React, Java, Spring, Springboot, AWS, Git, Kafka, Redis**
 
 - 📫 How to reach me **anurag041kumar@gmail.com**
 
@@ -19,7 +19,7 @@
 <h3 align="left">Backend: </h3>
 - Java, Spring, Springboot, Spring Security, RestApi, Microservices.
 <h3 align="left">Tools: </h3>
-- Git, Postman, Jira, AWS
+- Git, Postman, Jira, AWS, Kafka
 <p></p>
 
 <p align="left">
